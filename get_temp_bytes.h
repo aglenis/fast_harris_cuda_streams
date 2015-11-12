@@ -1,0 +1,1 @@
+size_t get_cub_reduce_temp_bytes(void *d_temp_storage,float * d_reduce_input,float * d_aggregate,int num_items );
